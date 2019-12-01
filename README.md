@@ -1,3 +1,78 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h2 align="center"> Components and Props System</h2>
+
+  <p align="center">
+    Project developed with React that implements different components to
+    highlight their use and how to make them reusable with the props system.
+    <br />
+    <a href="https://github.com/YairFernando67/components"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/YairFernando67/components/issues">Report Bug</a>
+    ·
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+In this project we highlight how to use components in a REACT
+application:
+<h4>Reusable Components</h4>
+
+* PROPS
+<p> 
+It is a system for passing data from a parent 
+component to a child component
+Its goal is to customize or configure a child
+component
+When we use the props system, there are two
+stages.
+The first one is when we want to provide information
+from the parent to the child
+The second one is when the child makes use to this
+information.
+</p>
+
+### Some concepts of a component in REACT:
+#### Component Nesting
+* A component can be shown inside of another
+#### Component Resuability
+* We want to make components that can be easily reused through out application
+#### Component Configuration
+* We should be able to configure a component when it is created
+
+### Built With
+The project was developed using these tools and technologies.
+* [REACT](https://es.reactjs.org/)
+* [JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+
+<!-- CONTACT -->
+## Contact
+
+Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - yair.facio11@gmail.com  
+
+Project Link: [https://github.com/YairFernando67/components](https://github.com/YairFernando67/components)
+
+<!-- ACKNOWLEDGEMENTS -->
+<!-- ## Acknowledgements
+* [Normalize.css](https://necolas.github.io/normalize.css/) -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
