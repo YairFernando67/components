@@ -77,7 +77,6 @@ Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) 
 Project Link: [https://github.com/YairFernando67/components](https://github.com/YairFernando67/components)
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <div>
     <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip" title="Email me">
         yair.facio11@gmail.com
     </a>
@@ -87,7 +86,6 @@ Project Link: [https://github.com/YairFernando67/components](https://github.com/
     <a target="_blank" href="https://twitter.com/YairFernando18">
       Twitter
     </a>
-  </div>
 </p>
 
 <!-- ACKNOWLEDGEMENTS -->
