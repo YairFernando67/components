@@ -76,8 +76,9 @@ The project was developed using these tools and technologies.
   Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip"  title="Email me">
     yair.facio11@gmail.com
   </a>
-
+  <p>
   Project Link: [https://github.com/YairFernando67/components](https://github.com/YairFernando67/components)
+  </p>
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
