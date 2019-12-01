@@ -72,11 +72,13 @@ The project was developed using these tools and technologies.
 
 ## Contact
 
-Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip"  title="Email me">
-  yair.facio11@gmail.com
-</a>
+<p align="center">
+  Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip"  title="Email me">
+    yair.facio11@gmail.com
+  </a>
 
-Project Link: [https://github.com/YairFernando67/components](https://github.com/YairFernando67/components)
+  Project Link: [https://github.com/YairFernando67/components](https://github.com/YairFernando67/components)
+</p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <a target="_blank" href="https://yairfernando67.github.io/Portfolio/">
